@@ -29,11 +29,11 @@ B. PROXY.TXT
 
 windows
 ```bash
-python momo.bot
+python momo.py
 ```
 linux
 ```bash
-python3 momo.bot
+python3 momo.py
 ```
 
 CIH WIBU
