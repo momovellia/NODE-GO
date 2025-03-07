@@ -5,7 +5,7 @@
 
 A. **CLONE SAMA CD :**
    ```bash
-  [ git clone https://github.com/momovellia/NODE-GO.git
+   git clone https://github.com/momovellia/NODE-GO.git
    cd Node-go
    ```
 2. **Install Requirements:**
