@@ -37,3 +37,4 @@ python3 momo.py
 ```
 
 CIH WIBU
+trick no proxy pilih no 1 dulu setelah CTRL+C JALANININ ULANG LGI TERUS PILIH NO 3
