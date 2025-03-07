@@ -158,7 +158,7 @@ class NodeGo:
         while True:
             try:
                 print("1. Run PROXY WIBU GRATIS")
-                print("2. Run PRIVATE PROXY NO AJA UDH")
+                print("2. Run PRIVATE PROXY")
                 print("3. Run PROXY SENDIRI YG BELI")
                 choose = int(input("Choose [1/2/3] -> ").strip())
 
